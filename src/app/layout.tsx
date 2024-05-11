@@ -1,4 +1,4 @@
-import "./globals.css";
+import "../styles/theme/globals.css";
 import "@radix-ui/themes/styles.css";
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
